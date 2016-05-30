@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_about_me">AboutMeActivity</string>
+
+    <string name="btn_join">JOIN</string>
+    <string name="btn_send">发送</string>
+</resources>
